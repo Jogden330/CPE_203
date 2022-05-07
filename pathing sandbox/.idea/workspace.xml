@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45c80205-215a-40db-8dcf-19c4fd5a1544" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1p5cksLt643ws0UIAgRppSqAij2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AStar_Pathing_Visualizer _Sandbox" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PathingMain" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PathingMain" />
+      <module name="project 4 stuuf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45c80205-215a-40db-8dcf-19c4fd5a1544" name="Default Changelist" comment="" />
+      <created>1614476538089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614476538089</updated>
+      <workItem from="1614476539196" duration="56000" />
+      <workItem from="1614476599703" duration="23000" />
+      <workItem from="1614476632715" duration="93000" />
+      <workItem from="1614476736861" duration="36000" />
+      <workItem from="1614476853495" duration="227000" />
+      <workItem from="1614478341998" duration="26000" />
+      <workItem from="1614478372997" duration="30000" />
+      <workItem from="1614647400430" duration="66000" />
+      <workItem from="1614647793344" duration="125000" />
+      <workItem from="1614715244381" duration="41000" />
+      <workItem from="1615246326444" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
